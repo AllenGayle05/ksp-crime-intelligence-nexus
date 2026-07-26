@@ -1,0 +1,31 @@
+.prediction-page-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px;
+  flex: 1;
+  overflow-y: auto;
+}
+.pp-title {
+  color: #e6eef8;
+  margin: 0 0 8px 0;
+  text-align: center;
+}
+.pp-subtitle {
+  text-align: center;
+  margin-top: 8px;
+  color: #9aa6c7;
+  font-style: italic;
+}
+
+.page-container {
+  padding-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  overflow-y: auto;
+}
+
+/* Ensure contained CrimePrediction fills width */
+.prediction-page-container .cp-card {
+  width: 100%;
+}

@@ -1,0 +1,60 @@
+EDA Summary
+==========
+
+Total records: 1651940
+Total districts: 41
+Total crime categories: 107
+Year range: (2016, 2024)
+
+Top 10 districts by crime count:
+district_name
+Bengaluru City    414149
+Bengaluru Dist     63651
+Tumakuru           61289
+Shivamogga         60732
+Mandya             59313
+Belagavi Dist      58921
+Hassan             57628
+Mysuru Dist        50028
+Chitradurga        47283
+Ramanagara         44004
+
+Top 10 crime categories:
+crimegroup_name
+MOTOR VEHICLE ACCIDENTS NON-FATAL    242951
+THEFT                                158963
+CrPC                                 127138
+CASES OF HURT                        126179
+MISSING PERSON                       124807
+KARNATAKA POLICE ACT 1963            107521
+Karnataka State Local Act             90411
+MOTOR VEHICLE ACCIDENTS FATAL         83040
+ CYBER CRIME                          69435
+CHEATING                              48609
+
+Crimes per year:
+_eda_year
+2016    224819
+2017    241380
+2018    213689
+2019    171159
+2020    159279
+2021    175232
+2022    194192
+2023    229877
+2024     42313
+
+Crimes per month:
+_eda_month
+1     146339
+2     155578
+3     155481
+4     141702
+5     135921
+6     136934
+7     137177
+8     135000
+9     126995
+10    127012
+11    126671
+12    127130
