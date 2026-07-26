@@ -122,7 +122,7 @@ Historical Crime Dataset
           │
  ┌────────┼───────────┐
  ▼        ▼           ▼
-Analytics Hotspots AI Assistant
+Analytics Hotspots
 ```
 
 ---
@@ -203,7 +203,6 @@ npm run dev
 | 🔮 Prediction | AI Crime Prediction |
 | 📊 Analytics | Crime Trend Analysis |
 | 📍 Hotspots | Geographic Crime Intelligence |
-| 🤖 AI Assistant | Police Intelligence Chat Assistant |
 
 ---
 

@@ -8,7 +8,6 @@ import LandingPage from './pages/LandingPage'
 import PredictionPage from './pages/PredictionPage'
 import AnalyticsPage from './pages/AnalyticsPage'
 import HotspotsPage from './pages/HotspotsPage'
-import AIAssistantPage from './pages/AIAssistantPage'
 import Navbar from './components/Navbar'
 import ErrorBoundary from './components/ErrorBoundary'
 
@@ -22,7 +21,6 @@ createRoot(document.getElementById('root')).render(
           <Route path="/prediction" element={<PredictionPage />} />
           <Route path="/analytics" element={<ErrorBoundary><AnalyticsPage/></ErrorBoundary>} />
           <Route path="/hotspots" element={<HotspotsPage />} />
-          <Route path="/ai-assistant" element={<AIAssistantPage />} />
         </Routes>
       </BrowserRouter>
     </PredictionProvider>

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './navbar.css';
 
@@ -13,7 +13,6 @@ export default function Navbar() {
           <NavLink to="/prediction" className={({isActive}) => isActive ? 'nav-item active' : 'nav-item'}>Prediction</NavLink>
           <NavLink to="/analytics" className={({isActive}) => isActive ? 'nav-item active' : 'nav-item'}>Analytics</NavLink>
           <NavLink to="/hotspots" className={({isActive}) => isActive ? 'nav-item active' : 'nav-item'}>Hotspots</NavLink>
-          <NavLink to="/ai-assistant" className={({isActive}) => isActive ? 'nav-item nav-ai active' : 'nav-item nav-ai'}>🤖 AI Assistant</NavLink>
         </nav>
       </div>
     </header>
