@@ -262,44 +262,6 @@ http://localhost:5173
       Prediction & Analytics Output
 ```
 
----
-
-# 📸 Screenshots
-
-> Upload your screenshots inside a folder named **screenshots**.
-
-## Landing Dashboard
-
-```text
-screenshots/dashboard.png
-```
-
----
-
-## Crime Prediction
-
-```text
-screenshots/prediction.png
-```
-
----
-
-## Analytics Dashboard
-
-```text
-screenshots/analytics.png
-```
-
----
-
-## Hotspot Visualization
-
-```text
-screenshots/hotspots.png
-```
-
----
-
 # 📌 Future Enhancements
 
 - Enhanced crime trend analysis
